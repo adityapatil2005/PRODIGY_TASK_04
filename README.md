@@ -42,6 +42,6 @@ A simple **Machine Learning project** that predicts whether a customer will subs
 ## ▶️ Run Locally
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/adityapatil2005/PRODIGY_TASK_04/tree/main
 cd repository-name
 jupyter notebook
